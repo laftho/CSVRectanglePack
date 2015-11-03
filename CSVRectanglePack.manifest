@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"Thomas LaFreniere",
+	"description":	{
+		"":	"Layout CSV data as packed rectangles. CSV format name,width(cm),height(cm),quantity"
+	},
+	"supportedOS":	"windows|mac",
+	"autodeskLibraries":	["application", "dashboard", "geometry", "materials", "userInterface", "utilities", "bRep", "components", "construction", "features", "fusion", "meshBody", "meshData", "sketch", "tSpline"]
+}
